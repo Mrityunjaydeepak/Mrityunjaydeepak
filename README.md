@@ -1,8 +1,8 @@
 ## 👋, Hello World, I'm Mrityunjay
-![]
+## Skills and Experience
 
-
-Skills: Java / Kotlin / Python / HTML / CSS / C++
+## ![CodingGIF](https://user-images.githubusercontent.com/40417995/154029096-b8746344-a4b7-4f43-b63a-8cf01d1e53c0.gif)
+####  Java / Kotlin / Python / HTML / CSS / C++
 
 ##### - 🔭 I’m currently An Undergrad Student.
 ##### - 🌱 I’m currently learning Machine learning  

@@ -16,6 +16,7 @@
  - 🌱 I’m currently learning Machine learning  
  - 📫  reach me: mrityunjaydeepak22@gmailcom 
  - 😄 Pronouns: HE/HIM 
+ - ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mrityunjaydeepak&theme=gotham_icons=true)
 
 
 

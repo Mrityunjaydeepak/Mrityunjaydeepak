@@ -20,7 +20,7 @@
 
 
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mrityunjaydeepak&theme=gotham_icons=true)                                                       ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Mrityunjaydeepak)](https://github.com/anuraghazra/github-readme-stats)
+  ![Mrityunjay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mrityunjaydeepak&theme=gotham_icons=true)                                                         \t ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Mrityunjaydeepak)]
 
 
 

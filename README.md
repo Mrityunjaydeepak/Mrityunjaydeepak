@@ -3,7 +3,7 @@
 ## Skills and Experience                                                            
                                                  
      Java                    
-   ![CodingGIF](https://user-images.githubusercontent.com/40417995/154029096-b8746344-a4b7-4f43-b63a-8cf01d1e53c0.gif)
+   
 
      Kotlin
      Python
@@ -12,10 +12,10 @@
      C++             
 
 
-##### - 🔭 I’m currently An Undergrad Student.
-##### - 🌱 I’m currently learning Machine learning  
-##### - 📫  reach me: mrityunjaydeepak22@gmailcom 
-##### - 😄 Pronouns: HE/HIM 
+ - 🔭 I’m currently An Undergrad Student.                                               ![CodingGIF](https://user-images.githubusercontent.com/40417995/154029096-b8746344-a4b7-4f43-b63a-8cf01d1e53c0.gif)
+ - 🌱 I’m currently learning Machine learning  
+ - 📫  reach me: mrityunjaydeepak22@gmailcom 
+ - 😄 Pronouns: HE/HIM 
 
 
 

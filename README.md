@@ -9,7 +9,7 @@
  
  ## More about me   
 
- - 🔭 I’m currently An Undergrad Student.                                             
+ - 🔭 I’m currently An Undergrad Student.                                                  
  - 🌱 I’m currently learning Machine learning  
  - 📫  reach me: mrityunjaydeepak22@gmailcom 
  - 😄 Pronouns: HE/HIM 

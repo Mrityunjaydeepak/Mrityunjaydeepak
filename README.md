@@ -13,7 +13,7 @@
  - 🌱 I’m currently learning Machine learning  
  - 📫  reach me: mrityunjaydeepak22@gmailcom 
  - 😄 Pronouns: HE/HIM 
-
+    
 
 
 

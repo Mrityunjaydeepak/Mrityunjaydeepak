@@ -9,7 +9,7 @@
                 
  ## More about me            
     
- - 🔭 I’m currently Looking for an oppotunity.                                                      
+ - 🔭 I’m currently working as FullStack Developer.                                                      
  - 🌱 FullStack WebDeveloper
  - 🌱 Machine learning
  - 📫  reach me: mrityunjaydeepak22@gmailcom 

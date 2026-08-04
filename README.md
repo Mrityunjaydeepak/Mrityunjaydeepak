@@ -1,6 +1,6 @@
 # Hi, I'm Mrityunjay Deepak 👋
 
-### Full-Stack Developer | 2+ Years Experience | Java · Python · SQL · Machine Learning
+### Full-Stack Developer | 3+ Years Experience | Java · Python · SQL · Machine Learning
 
 I build reliable, scalable web applications end-to-end — from backend APIs and data
 models to responsive frontends — and bring a machine learning background to problems

@@ -39,8 +39,7 @@ that need it.
   and responsive UIs.
 - Apply machine learning techniques to real-world data problems.
 - Write clean, well-tested Java and Python code, with SQL for data-heavy backends.
-- Currently sharpening algorithmic problem-solving and system design fundamentals for
-  SWE interviews (Google/Microsoft/Amazon/OpenAI-level bar).
+
 
 ---
 
